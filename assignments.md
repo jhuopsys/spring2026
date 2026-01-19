@@ -42,6 +42,7 @@ team, especially [Ben Pfaff](https://benpfaff.org/).
 Assignment | Type | Due
 ---------- | :--: | ---
 [Assignment 0: Getting Real](assign/assign00.html) | **Individual** | Monday, Feb 2nd by 11 pm
+
 <!--
 [Assignment 1: Threads](assign/assign01.html) | **Team** | Wednesday, Feb 19th by 11 pm
 [Assignment 2: User Programs](assign/assign02.html) | **Team** | Friday, Mar 14th ("soft" deadline)<br>Monday, Mar 24th ("hard" deadline)
