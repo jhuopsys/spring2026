@@ -116,8 +116,8 @@ in-class activities.
 
 Your course grade will be determined as follows:
 
-* Programming assignments: 60%
-* Exams: 40%
+* Programming assignments: 40%
+* Exams: 60%
 
 You have a total of 120 late hours to use as needed for homework
 assignments throughout the course.
