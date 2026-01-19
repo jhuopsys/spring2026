@@ -16,7 +16,7 @@ category: "syllabus"
 
 Office: Malone 240A
 
-Office hours: T/Th 1-3pm, or by arrangement, via Zoom (see Courselore for URL)
+Office hours: T/Th 1-2pm, or by arrangement, via Zoom (see Courselore for URL)
 
 ## Course Assistants
 
