@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Operating Systems, Spring 2025"
+title: "Operating Systems, Spring 2026"
 category: "home"
 ---
 
-Welcome to the website for Operating Systems (Spring 2025)
+Welcome to the website for Operating Systems (Spring 2026)
 at <a href="https://www.jhu.edu/">Johns Hopkins University</a>!
 
 This course covers the design and implementation of operating systems.
