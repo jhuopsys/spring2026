@@ -10,7 +10,7 @@ and is used by permission.
 
 # Project 1: Threads
 
-**Due:** Wednesday, Feb 19th by 11 pm
+**Due:** Wednesday, Feb 18th by 11 pm
 
 In this assignment, we give you a minimally functional thread system.
 Your job is to extend the functionality of this system to gain a better

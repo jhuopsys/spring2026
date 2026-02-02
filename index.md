@@ -35,5 +35,9 @@ Gradescope.
 
 ## News
 
+* **Feb 2** — [Assignment 1](assign/assign01.html) is due Wednesday,
+  Feb 18th by 11 pm. Please make sure that you accept your invitation
+  to the [jhuopsys Github organization](https://github.com/jhuopsys)
+  so that we can create your team project repository.
 * **Jan 20** — Welcome back! [Assignment 0](assign/assign00.html)
   is due Monday, Feb 2nd by 11 pm.
