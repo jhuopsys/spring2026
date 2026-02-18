@@ -35,6 +35,9 @@ Gradescope.
 
 ## News
 
+* **Feb 18** — [Assignment 2](assign/assign02.html) is due Monday,
+  March 23rd, but we *strongly* recommend that you aim to complete it
+  by Friday, March 13th.
 * **Feb 2** — [Assignment 1](assign/assign01.html) is due <strike>Wednesday,
   Feb 18th</strike> Friday, Feb 20th by 11 pm. Please make sure that you
   accept your invitation

@@ -12,8 +12,8 @@ and is used by permission.
 
 **Due:**
 
-* "Soft" deadline **Friday, March 14th**
-* "Hard" deadline **Monday, March 24th**
+* "Soft" deadline **Friday, March 13th**
+* "Hard" deadline **Monday, March 23rd**
 
 Now that you\'ve worked with Pintos and are becoming familiar with its
 infrastructure and thread package, it\'s time to start working on the
@@ -896,7 +896,7 @@ called `src`.
 From the root directory of your repository, run the following commands:
 
 <div class='highlighter-rouge shell'><pre>
-curl -O https://jhuopsys.github.io/spring2025/assign/create_submission_a2.sh
+curl -O https://jhuopsys.github.io/spring2026/assign/create_submission_a2.sh
 chmod a+x create_submission_a2.sh
 ./create_submission_a2.sh
 </pre></div>
@@ -914,13 +914,13 @@ You may be asked to authenticate with git while we verify your repo.
 Please note that we are not handling your credentials in any way and 
 they are directly being requested and processed by the 'git' command.
 
-From github.com:jhuopsys/pintos-spring2024
+From github.com:jhuopsys/pintos-spring2026
  * branch            a2-dev     -> FETCH_HEAD
 We will turn in the current state of the 'a2-dev' branch for grading.
 The current commit at the head of your branch is:
 commit a792d3f4233aaa18ea3faf940296540ea5bc6d39 (HEAD -> a2-dev, origin/a2-dev)
 Author: David Hovemeyer <david.hovemeyer@gmail.com>
-Date:   Wed Mar 13 13:51:57 2024 -0400
+Date:   Wed Mar 13 13:51:57 2026 -0400
 
     put finishing touches on DESIGNDOC
 Please do not overwrite this commit after making your final submission. We will consider
