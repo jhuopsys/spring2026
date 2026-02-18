@@ -506,7 +506,7 @@ called `src`.
 From the root directory of your repository, run the following commands:
 
 <div class='highlighter-rouge shell'><pre>
-curl -O https://jhuopsys.github.io/spring2025/assign/create_submission_a1.sh
+curl -O https://jhuopsys.github.io/spring2026/assign/create_submission_a1.sh
 chmod a+x create_submission_a1.sh
 ./create_submission_a1.sh
 </pre></div>
@@ -524,7 +524,7 @@ You may be asked to authenticate with git while we verify your repo.
 Please note that we are not handling your credentials in any way and
 they are directly being requested and processed by the 'git' command.
 
-From github.com:jhuopsys/pintos-spring2025
+From github.com:jhuopsys/pintos-spring2026
  * branch            priority-donation-2 -> FETCH_HEAD
 We will turn in the current state of the 'priority-donation-2' branch for grading.
 The current commit at the head of your branch is:
