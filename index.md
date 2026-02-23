@@ -35,6 +35,11 @@ Gradescope.
 
 ## News
 
+* **Feb 22** — Exam 1 will take place in class on Monday, March 2nd.
+  You may bring one sheet of *hand-written* notes (writing on both
+  sides is allowed.) Review materials are available on the
+  [Resources](resources.html) page. We will have a review session
+  in class on Wednesday, Feb 24th: please being questions!
 * **Feb 18** — [Assignment 2](assign/assign02.html) is due Monday,
   March 23rd, but we *strongly* recommend that you aim to complete it
   by Friday, March 13th.
