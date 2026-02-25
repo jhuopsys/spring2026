@@ -35,6 +35,9 @@ Gradescope.
 
 ## News
 
+* **Feb 25** — One additional practice exam is available on the
+  [Resources](resources.html) page. Also, solutions to written homeworks
+  1 and 2 are available in the Files area on Canvas.
 * **Feb 22** — Exam 1 will take place in class on Monday, March 2nd.
   You may bring one sheet of *hand-written* notes (writing on both
   sides is allowed.) Review materials are available on the
