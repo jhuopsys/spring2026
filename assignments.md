@@ -44,9 +44,9 @@ Assignment | Type | Due
 [Assignment 0: Getting Real](assign/assign00.html) | **Individual** | Monday, Feb 2nd by 11 pm
 [Assignment 1: Threads](assign/assign01.html) | **Team** | Friday, Feb 20th by 11 pm
 [Assignment 2: User Programs](assign/assign02.html) | **Team** | Friday, Mar 13th ("soft" deadline)<br>Monday, Mar 23rd ("hard" deadline)
+[Assignment 3a: Virtual Memory Part A](assign/assign03a.html) | **Team** | Friday, April 10th by 11 pm
+[Assignment 3b: Virtual Memory Part B](assign/assign03b.html) | **Team** | Monday, April 27th by 11 pm (Note that at most 48 late hours may be used)
 
 <!--
-[Assignment 3a: Virtual Memory Part A](assign/assign03a.html) | **Team** | Friday, April 11th by 11 pm
-[Assignment 3b: Virtual Memory Part B](assign/assign03b.html) | **Team** | Monday, April 28th by 11 pm (Note that at most 48 late hours may be used)
 [Assignment 4: File Systems](assign/assign04.html) | **Optional** | n/a
 -->

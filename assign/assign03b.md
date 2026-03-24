@@ -5,7 +5,7 @@ title: "Assignment 3b: Virtual Memory Part B"
 
 # Assignment 3b: Virtual Memory - Part B
 
-**Due:** Monday, April 28th, by 11pm
+**Due:** Monday, April 27th, by 11pm
 
 <div class='admonition caution'>
   <div class='title'>Important!</div>

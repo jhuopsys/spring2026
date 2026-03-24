@@ -35,6 +35,11 @@ Gradescope.
 
 ## News
 
+* **Mar 24** — Assignment 3 has two parts, [Assignment 3a](assign/assign03a.html)
+  and [Assignment 3b](assign/assign03b.html), due (respectively) on
+  Friday, April 10th, and Monday, April 27th. Note that both parts are
+  individually weighted as a full assignment (equal to Assignment 1 and
+  Assignment 2.)
 * **Feb 25** — One additional practice exam is available on the
   [Resources](resources.html) page. Also, solutions to written homeworks
   1 and 2 are available in the Files area on Canvas.

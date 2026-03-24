@@ -49,10 +49,10 @@ Mar 25 | [IO and disks](lectures/lecture14.pdf) | [Chapter 36](http://pages.cs.w
 Mar 30 | [File systems](lectures/lecture15.pdf) | [Chapter 39](http://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf) | 
 Apr 1 | [File systems implementation](lectures/lecture16.pdf) | [Chapter 40](http://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf) | 
 Apr 6 | Slack day/exam review |  | 
-Apr 8 | **Exam 2**, in class |  | <!--[A3a](assign/assign03a.html) due<br>Fri 4/110-->
+Apr 8 | **Exam 2**, in class |  | [A3a](assign/assign03a.html) due<br>Fri 4/10
 Apr 13 | [Unix Fast File System](lectures/lecture17.pdf) | [Chapter 41](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf), [FFS paper](https://dsf.berkeley.edu/cs262/FFS.pdf) | 
 Apr 15 | [Log structured filesystems](lectures/lecture18.pdf) | [Chapter 43](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf), [LFS paper](https://dl.acm.org/doi/pdf/10.1145/146941.146943) | 
 Apr 20 | [fsck and journaling](lectures/lecture19.pdf) | [Chapter 42](http://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf) | 
 Apr 22 | Virtual machines | [Appendix B](http://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf) | 
-Apr 27 | Slack day/exam review |  | 
-May 11 | **Exam 3**, At 6 pm, Hodson 210 |  | 
+Apr 27 | Slack day/exam review |  | <!--[A3b](assign/assign03b.html) due-->
+May 11 | **Exam 3**, At 9 am, Location TBD |  | 
