@@ -29,6 +29,7 @@ about building the Bochs emulator from source.
 * [Exam 1, Spring 2024](resources/exam01-spring2024.pdf)
 * [Exam 1, Spring 2025](resources/exam01-spring2025.pdf)
 * [Exam 2, Spring 2024](resources/exam02-spring2024.pdf)
+* [Exam 2, Spring 2025](resources/exam02-spring2025.pdf)
 * [Exam 3, Spring 2024](resources/exam03-spring2024.pdf)
 
 ### Written Homeworks

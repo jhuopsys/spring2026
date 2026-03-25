@@ -35,6 +35,11 @@ Gradescope.
 
 ## News
 
+* **Mar 25** — Exam 2 will take place in class on Wednesday, April 10th.
+  You may bring one sheet of *hand-written* notes (writing on both
+  sides is ok.) Review materials are available on the [Resources](resources.html)
+  page. We will have a review session in class on Monday, April 6th:
+  please bring questions!
 * **Mar 24** — Assignment 3 has two parts, [Assignment 3a](assign/assign03a.html)
   and [Assignment 3b](assign/assign03b.html), due (respectively) on
   Friday, April 10th, and Monday, April 27th. Note that both parts are
