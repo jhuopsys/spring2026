@@ -50,4 +50,4 @@ Homework | Topics | Preparation for
 [Homework 2](resources/hw2.pdf) | Threads, scheduling, synchronization | Exam 1
 [Homework 3](resources/hw3.pdf) | Threads, scheduling, synchronization | Exam 1
 [Homework 4](resources/hw4.pdf) | Virtual memory, paging | Exam 2
-[Homework 5](resources/hw5.pdf) | Disks, filesystems | Exam 3
+[Homework 5](resources/hw5.pdf) | Disks, filesystems | Exam 2, Exam 3
