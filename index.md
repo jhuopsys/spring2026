@@ -35,7 +35,7 @@ Gradescope.
 
 ## News
 
-* **Mar 25** — Exam 2 will take place in class on Wednesday, April 10th.
+* **Mar 25** — Exam 2 will take place in class on Wednesday, April 8th.
   You may bring one sheet of *hand-written* notes (writing on both
   sides is ok.) Review materials are available on the [Resources](resources.html)
   page. We will have a review session in class on Monday, April 6th:
